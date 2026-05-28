@@ -149,4 +149,4 @@ Foreign key constraints are used to maintain data consistency.
 
 ## Author
 
-Teja Swini
+Tejaswini
